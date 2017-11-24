@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'GSTaskTimer_Example' do
+  pod 'GSTaskTimer', :path => '../'
+
+  target 'GSTaskTimer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

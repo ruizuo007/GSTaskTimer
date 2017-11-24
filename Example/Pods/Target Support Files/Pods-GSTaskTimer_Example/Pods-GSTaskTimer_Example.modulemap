@@ -1,0 +1,6 @@
+framework module Pods_GSTaskTimer_Example {
+  umbrella header "Pods-GSTaskTimer_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
